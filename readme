@@ -1,0 +1,14 @@
+Reference:
+1. Show Dicom using VTK or PyDicom
+https://pyscience.wordpress.com/2014/09/08/dicom-in-python-importing-medical-image-data-into-numpy-with-pydicom-and-vtk/
+2. Convert Numpy to VTK
+https://pyscience.wordpress.com/2014/09/06/numpy-to-vtk-converting-your-numpy-arrays-to-vtk-arrays-and-files/
+3. Introduction to Python and VTK, Scientific Visuliazation, HT2014 Lecture. Johan Nysjo from Swedish
+University of Agricultural Sciences Uppsala University
+4. Python VTK script to Display 3D xyz data
+https://sukhbinder.wordpress.com/2013/09/17/python-vtk-script-to-display-3d-xyz-data/
+
+
+
+Dicom Data Download Link (from Reference 1):
+https://bitbucket.org/somada141/pyscience/raw/master/20140906_PythonDicom/Material/MyHead.zip
